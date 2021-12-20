@@ -6,4 +6,4 @@
 
 
 ## how to run
-`php test.php`
+`php qrcode.php`
